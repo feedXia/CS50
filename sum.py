@@ -1,0 +1,12 @@
+day1 = int(input("Day 1: "))
+day2 = int(input("Day 2: "))
+day3 = int(input("Day 3: "))
+day4 = int(input("Day 4: "))
+day5 = int(input("Day 5: "))
+day6 = int(input("Day 6: "))
+day7 = int(input("Day 7: "))
+day8 = int(input("Day 8: "))
+day9 = int(input("Day 9: "))
+day10 = int(input("Day 10: "))
+
+print(day1 + day2 + day3 + day4 + day5 + day6 + day7 + day8 + day9 + day10)

@@ -1,6 +1,6 @@
 # Xia's CS50 Repository
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xia-learnstocode
 
 Hello World!
 
